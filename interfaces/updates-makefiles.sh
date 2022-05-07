@@ -7,3 +7,6 @@ do_makefiles_update \
 
 do_makefiles_update \
   "vendor.xiaomi:hardware/xiaomi/interfaces/xiaomi"
+
+do_makefiles_update \
+  "vendor.xiaomi:hardware/xiaomi/interfaces/charge"
